@@ -83,3 +83,24 @@ ul li {
   float: right;
   margin-left: 50px;
 }
+
+#vanessa {
+  padding: 10px 10px 10px 0px;
+  align:left;
+}
+
+p {
+  align: left;
+}
+button {
+  float:right;
+}
+#utensils {
+  display: block;
+  padding-top: 50px;
+  margin: 0 auto;
+}
+c {
+  display: block;
+  text-align: center;
+}
