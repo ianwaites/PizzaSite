@@ -92,15 +92,31 @@ ul li {
 p {
   align: left;
 }
+
 button {
   float:right;
 }
+
 #utensils {
   display: block;
   padding-top: 50px;
   margin: 0 auto;
 }
+
 c {
   display: block;
   text-align: center;
+}
+
+#checkcheck {
+  max-width: 100px;
+  display: inline;
+}
+
+button {
+  float: right;
+  background-color: #555555;
+  color: white;
+  font-size: 12px;
+  padding: 12px;
 }
